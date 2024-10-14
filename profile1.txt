@@ -1,0 +1,11 @@
+expenses:
+
+Leisure expenses
+300000
+1400/6/6
+cafe
+
+Mobile and internet bills
+150000
+1400/8/8
+aban month's bill

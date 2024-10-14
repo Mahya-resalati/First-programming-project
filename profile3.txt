@@ -1,0 +1,11 @@
+expenses:
+
+Transportation cost
+100000
+1400/9/9
+taxi
+
+Mobile and internet bills
+200000
+1400/7/7
+qabz
